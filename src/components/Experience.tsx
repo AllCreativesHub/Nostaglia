@@ -1,5 +1,5 @@
 import React from 'react';
-import { Music, Sunset, Wine, Flame, Sparkles, ShieldCheck } from 'lucide-react';
+import { Music, Sunset, Wine, Flame, Sparkles } from 'lucide-react';
 
 export const Experience: React.FC = () => {
   const highlights = [

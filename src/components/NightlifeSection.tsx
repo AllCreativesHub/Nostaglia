@@ -1,5 +1,5 @@
 import React from 'react';
-import { Sunset, Disc, Wine, Sparkles, Calendar, Clock, ChevronRight } from 'lucide-react';
+import { Sunset, Disc, Wine, Clock, ChevronRight } from 'lucide-react';
 
 interface NightlifeSectionProps {
   onOpenReservation: () => void;

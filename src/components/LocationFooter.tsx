@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { MapPin, Clock, Phone, Mail, Navigation, MessageSquare, Heart, Send } from 'lucide-react';
+import { MapPin, Clock, Phone, Mail, Navigation, MessageSquare, Send } from 'lucide-react';
 
 
 interface LocationFooterProps {

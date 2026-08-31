@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { MENU_ITEMS, type MenuItem } from '../data/copyData';
-import { Download, Sparkles, UtensilsCrossed, ExternalLink, ChevronRight } from 'lucide-react';
+import { Download, Sparkles, ChevronRight } from 'lucide-react';
 
 
 interface MenuSectionProps {

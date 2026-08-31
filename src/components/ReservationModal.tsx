@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { X, Calendar, Clock, Users, MapPin, Sparkles, CheckCircle2, ChevronRight, MessageSquare } from 'lucide-react';
+import { X, Calendar, Clock, Users, CheckCircle2, ChevronRight, MessageSquare } from 'lucide-react';
 
 interface ReservationModalProps {
   isOpen: boolean;
